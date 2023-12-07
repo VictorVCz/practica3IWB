@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UjlwbZqZzTtnWxbsf4GPGurZSrQE+Y8LPEOI0HmVW9gaTOap7rQHZ/ppCPqYkiFlnGl/+0O7sk9THuqHeN25pA==",
+  "dgSpecHash": "8QueIvEERqTH+oBIUXWauK0Z6T1WzBms9ScNXO99Zx09VxChvd10vzaj5b0qVz+yVzX/yn6f87lVl49qXF1v/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\Documents\\Repositorios\\Practica3\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Users\\victo\\Documents\\Repositorios\\pr3\\practica3IWB\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",

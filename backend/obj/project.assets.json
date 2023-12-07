@@ -1767,11 +1767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\victo\\Documents\\Repositorios\\Practica3\\backend\\backend.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Documents\\Repositorios\\pr3\\practica3IWB\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "c:\\Users\\victo\\Documents\\Repositorios\\Practica3\\backend\\backend.csproj",
+      "projectPath": "C:\\Users\\victo\\Documents\\Repositorios\\pr3\\practica3IWB\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\victo\\Documents\\Repositorios\\Practica3\\backend\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Documents\\Repositorios\\pr3\\practica3IWB\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
